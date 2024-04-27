@@ -4,3 +4,4 @@ djangorestframework
 djoser
 pytz
 sqlparse
+social-auth-app-django>=5.4.1 # not directly required, pinned by Snyk to avoid a vulnerability
